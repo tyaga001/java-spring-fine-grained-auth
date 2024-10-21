@@ -1,0 +1,3 @@
+permit:
+  pdpUrl: 'http://localhost:7766'
+  apiKey: "Your Permit Environment API Key"
