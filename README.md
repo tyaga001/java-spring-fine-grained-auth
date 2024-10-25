@@ -1,3 +1,5 @@
+![Fine-Grained Authorization in Java and SpringBoot](banner.png)
+
 # Ecommerce Application with Permit.io Authorization
 
 This example project showcases a simple ecommerce app that implements authorization using permit.io. 
